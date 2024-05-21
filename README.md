@@ -44,11 +44,11 @@
 
 ## Реверс-инжиниринг
 
-- Лазанья
-- Ржавый АРМ
-- Чужая память
+- [Лазанья](categories/reverse/lasagna/writeup.md)
+- [Ржавый АРМ](categories/reverse/rust_arm/writeup.md)
+- [Чужая память](categories/reverse/someone_else_memory/writeup.md)
 - [VMM](categories/reverse/vmm/writeup.md)
-- Разминка
+- [Разминка](categories/reverse/warmup/writeup.md)
 
 ## Стеганография
 
