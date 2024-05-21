@@ -16,6 +16,7 @@
 - [uncompyle6](https://pypi.org/project/uncompyle6/) для декомпиляции pyc файла
 
 ![](images/unpacking_binary.png)
+
 ![](images/decompiling_pyc.png)
 
 Перенесем вывод uncompyle6 в файл lasagna.py
